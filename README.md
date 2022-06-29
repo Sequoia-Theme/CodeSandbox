@@ -4,7 +4,7 @@
 Sequoia theme adapted to Code Sanbox https://codesandbox.io/
 
 
-To change your theme on linear app do like this:
+# Installation
 
 - Open VS Code
 - Press (CMD/CTRL) + Shift + P
